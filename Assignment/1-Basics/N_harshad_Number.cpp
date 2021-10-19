@@ -19,7 +19,7 @@ void harshadNumber(int a)
 int main()
 {
     int a;
-    cout << "Enter number of harshar numbers yuo want to see : ";
+    cout << "Enter number of harshad numbers you want to see : ";
     cin >> a;
     int i = 10;
     while (a > counter)
