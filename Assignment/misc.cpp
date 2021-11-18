@@ -4,7 +4,7 @@ static int count = 0;
 using namespace std;
 int gcd(int a, int b)
 {
-    count++;
+    // count++;
     if (b == 0)
         return a;
     return gcd(b, a % b);
